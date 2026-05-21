@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:32 AM UTC
+			2026/5/19 3:25 AM UTC
 		</td>
 		<td>
 			3
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:25 AM UTC
 		</td>
 		<td>
 			1
@@ -53,28 +53,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/998509329/year.md">
-				music_player_website
-			</a>
-		</td>
-		<td>
-			2026/5/18 3:33 AM UTC
-		</td>
-		<td>
-			33
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/998509329/small/year.png" height="20"> 67
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/998878763/year.md">
 				adityaparagsingh
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:25 AM UTC
 		</td>
 		<td>
 			10
@@ -90,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:26 AM UTC
 		</td>
 		<td>
 			21
@@ -106,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:26 AM UTC
 		</td>
 		<td>
 			9
@@ -122,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:26 AM UTC
 		</td>
 		<td>
 			7
@@ -138,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/5/18 3:33 AM UTC
+			2026/5/19 3:26 AM UTC
 		</td>
 		<td>
 			5
@@ -149,7 +133,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/5/20 8:13 PM UTC</i></small>
+<small><i>Last updated on 2026/5/21 3:33 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

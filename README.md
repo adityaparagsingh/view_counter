@@ -67,89 +67,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/998509329/small/year.png" height="20"> 67
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/998878763/year.md">
-				adityaparagsingh
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:52 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/998878763/small/year.png" height="20"> 95
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/915565295/year.md">
-				Website_Clones
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:52 AM UTC
-		</td>
-		<td>
-			21
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/915565295/small/year.png" height="20"> 145
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/947229676/year.md">
-				currency_converter
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:52 AM UTC
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/947229676/small/year.png" height="20"> 33
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/911507619/year.md">
-				Home_Service_management_system
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:53 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/911507619/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/adityaparagsingh/view_counter/tree/master/readme/878437316/year.md">
-				C_programming
-			</a>
-		</td>
-		<td>
-			2026/6/8 3:53 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/adityaparagsingh/view_counter/raw/master/graph/878437316/small/year.png" height="20"> 6
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 9:57 AM UTC</i></small>
+<small><i>Last updated on 2026/6/10 3:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
